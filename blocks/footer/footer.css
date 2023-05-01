@@ -21,8 +21,9 @@
 @media screen and (max-width: 767px) {
   .footer {
     max-width: 186px;
-    margin: 64px 0 24px 16px;
+    margin: 64px auto 24px;
     display: flex;
     flex-direction: column;
+    /* Здесь поставил марджин auto, т.к в пачке по похожей ситуации написали, что по бокам марджины должны быть симметричны*/
   }
 }
