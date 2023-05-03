@@ -15,8 +15,5 @@
   .place__website {
     margin-left: 16px;
     max-width: 288px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
   }
 }

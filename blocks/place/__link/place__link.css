@@ -6,7 +6,8 @@
   font-weight: 400;
   line-height: 1.2;
   color: #fff;
-  cursor: url(../../../images/Pointer.svg), pointer;
+  -webkit-transition: opacity 0.8s linear;
+  -o-transition: opacity 0.8s linear;
   transition: opacity 0.8s linear;
 }
 
